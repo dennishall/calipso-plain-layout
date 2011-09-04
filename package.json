@@ -1,0 +1,7 @@
+{
+  "name": "plainlayout",
+  "description": "Enables a 'plain' layout to be selected by query parameter, useful for ajax",
+  "version": "0.1",
+  "homepage": "http://github.com/dennishall/calipso-plain-layout",
+  "author": "Dennis Hall <dennishall@github.com>"
+}
